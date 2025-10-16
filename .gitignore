@@ -103,7 +103,7 @@ target/
 .env
 .venv
 .idea
-.vscode
+#.vscode
 
 .pytest_cache/
 .mypy_cache/
